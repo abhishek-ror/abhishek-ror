@@ -12,6 +12,7 @@
   👨‍💻 4+ years of experience with <strong>Ruby on Rails</strong>, APIs, and performance optimization <br>
   ☁️ Skilled in <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Heroku</strong> deployment <br>
   🧪 Advocate for <strong>RSpec</strong> testing, TDD, and clean architecture <br>
+  🌐 Checkout my portfolio: <a href="https://abhishek-pal-1blwc5l.gamma.site/" target="_blank"><strong>abhishek-pal-1blwc5l.gamma.site</strong></a> <br>
   🎯 Contributed to platforms like <strong>MusicYou+1</strong>, <strong>PetroPal</strong>, <strong>Crema Co</strong>
 </p>
 
@@ -54,7 +55,7 @@
 - 🏏 Die-hard cricket fan  
 - 🎶 Music helps me think better  
 - 😄 I speak fluent emoji  
-- 💡 _"Code is like humor. When you have to explain it, it’s bad."_  
+> 💡 _"Code is like humor. When you have to explain it, it’s bad."_
 
 ---
 
@@ -69,6 +70,9 @@
   </a>
   <a href="https://instagram.com/er.abhishek.pal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://abhishek-pal-1blwc5l.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
