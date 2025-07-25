@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 Hey, I'm Abhishek Pal<br><br>![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)<br><br>### 💻 Full Stack Ruby on Rails Developer | Backend Specialist<br><br>---<br><br>🚀 **About Me:**<br><br>- 🔭 I’m currently working on some amazing backend projects using **Ruby on Rails**  <br>- 🌱 I’m constantly learning and improving my skills in **API development**, **RSpec testing**, and **ActiveAdmin dashboards**<br>- 👯 I’m looking to collaborate on exciting open-source or freelance backend gigs  <br>- 💬 Ask me about **Rails**, **ActiveRecord**, **Service Objects**, or **Performance Optimization**<br><br>---<br><br>### 🛠️ Tech Stack<br><br><img src="https://img.shields.io/badge/Ruby-red?style=flat&logo=ruby&logoColor=white" /><br><img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" /><br><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /><br><img src="https://img.shields.io/badge/Redis-D9281A?style=flat&logo=redis&logoColor=white" /><br><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat&logo=amazon-aws&logoColor=white" /><br><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /><br><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /><br><br>---<br><br>### 📊 GitHub Stats<br><br>![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-ror&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-ror&layout=compact&theme=tokyonight)<br><br>---<br><br>### 🤝 Connect with me<br><br>- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-ror)<br>- 📧 Email: `apal51640@gmail.com`<br><br>---<br><br>### ⚡ Fun Facts<br><br>- 🧠 I believe in **writing clean, maintainable, and testable code**<br>- 🏏 Cricket fan | 🎶 Music lover | 😄 Memes for life!<br><br>> 💡 “Code is like humor. When you have to explain it, it’s bad.”<br><br>---<br><br>![Thanks for visiting](https://komarev.com/ghpvc/?username=abhishek-ror&color=brightgreen)<br><br>
 
-<!--
-**abhishek-ror/abhishek-ror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er.abhishek.pal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/abhishek-developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apal51640@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhishek-ror&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhishek-ror&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-ror&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=abhishek-ror&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
