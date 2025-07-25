@@ -1,109 +1,85 @@
-# 💫 About Me
-## 👋 Hey, I'm Abhishek Pal  
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-### 💻 Full Stack Ruby on Rails Developer | Backend Specialist  
----
-🚀 **Quick Overview:**  
-- 🔭 Currently building scalable backend solutions at **Magic EdTech**
-- 👨‍💻 4+ years of professional experience in **Ruby on Rails**, **API design**, and **system performance**
-- ☁️ Proficient in **AWS**, **Docker**, **Heroku**, and CI/CD pipelines
-- 🧪 Enthusiast of clean architecture, **RSpec testing**, and TDD
-- 🎯 Delivered production-level solutions for platforms like **MusicYou+1**, **PetroPal**, and **Crema Co**
+<h1 align="center">Hi there 👋, I'm Abhishek Pal</h1>
+<h3 align="center">💻 Full Stack Ruby on Rails Developer | Backend Specialist</h3>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### Languages & Frameworks  
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)  
-![Rails](https://img.shields.io/badge/ruby--on--rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-blue?style=flat) ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat)
-
-#### Web  
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)  
-HAML, AJAX, jQuery
-
-#### Databases  
-![Postgres](https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-00758F?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-D9281A?style=flat&logo=redis&logoColor=white)
-
-#### DevOps & Cloud  
-![AWS](https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Heroku](https://img.shields.io/badge/heroku-430098?style=flat&logo=heroku&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### Tools  
-VS Code, Postman, Insomnia, JIRA, Git, Ubuntu
-
-#### Practices  
-Agile/Scrum, TDD, System Design, Performance Tuning, Security, OAuth2, JWT, SSO
+<p align="center">
+  🔭 Building robust backend systems at <strong>Magic EdTech</strong> <br>
+  👨‍💻 4+ years of experience with <strong>Ruby on Rails</strong>, APIs, and performance optimization <br>
+  ☁️ Skilled in <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Heroku</strong> deployment <br>
+  🧪 Advocate for <strong>RSpec</strong> testing, TDD, and clean architecture <br>
+  🎯 Contributed to platforms like <strong>MusicYou+1</strong>, <strong>PetroPal</strong>, <strong>Crema Co</strong>
+</p>
 
 ---
 
-### 📈 GitHub Stats  
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-ror&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-ror&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhishek-ror&theme=transparent&hide_border=false)
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-### 💼 Experience
+### 📈 GitHub Stats
 
-#### 🔹 Magic EdTech | Senior Associate Software Engineer *(Jul 2024 - Present)*  
-- Developed features for dating apps, wedding marketplaces, and fuel management systems  
-- Created REST APIs, wrote scalable RSpec test cases, and enhanced performance on Rails
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-ror&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-ror&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-#### 🔹 Startosphere IT Services | Senior Software Engineer *(Feb 2024 – Jul 2024)*  
-- Built microservices architecture, optimized Sidekiq jobs by 35%, improved CI/CD with Docker
-
-#### 🔹 Matrix Marketers | Software Engineer *(Sep 2023 – Feb 2024)*  
-- Integrated EasyPost, SendGrid, and Stripe in an e-commerce app (Crema Co), scaling to 20k+ users
-
-#### 🔹 IndVibe InfoTech | Software Engineer *(Apr 2021 – Jun 2023)*  
-- Developed real-time attendance systems using QR and ActionCable  
-- Led Elasticsearch integrations and CI/CD pipeline automation
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishek-ror&theme=transparent&hide_border=false" width="70%" />
+</p>
 
 ---
 
-### 🎓 Education  
-**B.Tech in Computer Science**  
-*Sanghvi Institute of Management and Science, Indore (2017–2021)*  
-**CGPA:** 7.40
+### ✨ Fun Facts About Me
+- 🧠 I believe in **clean, testable & scalable** code  
+- 🏏 Die-hard cricket fan  
+- 🎶 Music helps me think better  
+- 😄 I speak fluent emoji  
+- 💡 _"Code is like humor. When you have to explain it, it’s bad."_  
 
 ---
 
-### 🏆 Certifications  
-- Backend Development — *Great Learning*
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-abhishek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:apal51640@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/er.abhishek.pal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🥇 Achievements  
-- 🥇 Gold Medal – *State-Level Athletics*  
-- 🥈 Silver Medal – *National Kabaddi (IIM)*
-
----
-
-### ⚡ Fun Facts  
-- 🧠 Clean, testable, and scalable code is my mantra  
-- 🏏 Huge cricket buff | 🎶 Music addict | 😄 Living off memes  
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-abhishek/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er.abhishek.pal)  
-📧 Email: [apal51640@gmail.com](mailto:apal51640@gmail.com)
-
----
-
-![Profile Visits](https://komarev.com/ghpvc/?username=abhishek-ror&color=brightgreen)  
-[![](https://visitcount.itsvg.in/api?id=abhishek-ror&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek-ror&color=brightgreen" />
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=abhishek-ror&icon=0&color=0" />
+  </a>
+</p>
 
 <!-- Built with ❤️ by Abhishek using GPRM -->
