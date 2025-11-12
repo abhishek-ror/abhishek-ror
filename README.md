@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Abhishek+Pal+%F0%9F%91%8B;Full+Stack+Ruby+on+Rails+Developer+%F0%9F%92%BB;Backend+Specialist+%7C+4%2B+Years+Experience+%F0%9F%9A%80;Building+Scalable+%26+Robust+Systems+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Abhishek+Pal+%F0%9F%91%8B;Full+Stack+Ruby+on+Rails+Developer+%F0%9F%92%BB;Backend+Specialist+%7C+4%2B+Years+Experience+%F0%9F%9A%80;DevOps+%7C+Planning+%7C+Architecture+%E2%9A%A1" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=abhishek-ror&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
@@ -22,14 +22,16 @@ class Abhishek < Developer
     @company = "Magic EdTech"
     @location = "India"
     @experience = "4+ years"
+    @responsibilities = "Everything - Planning, Development, DevOps, Architecture"
   end
 
   def current_focus
     [
       "Building robust backend systems",
       "API design & optimization", 
-      "Cloud deployment (AWS/Docker)",
-      "Test-driven development (RSpec)"
+      "Cloud deployment & DevOps (AWS/Docker)",
+      "Full project lifecycle management",
+      "System architecture & planning"
     ]
   end
 
@@ -38,9 +40,14 @@ class Abhishek < Developer
       languages: ["Ruby", "JavaScript", "SQL"],
       frameworks: ["Ruby on Rails", "React", "Stimulus"],
       databases: ["PostgreSQL", "MySQL", "Redis"],
-      devops: ["Docker", "AWS", "Heroku", "CI/CD"],
-      testing: ["RSpec", "Minitest", "Capybara"]
+      devops: ["Docker", "AWS EC2", "CI/CD", "Nginx"],
+      testing: ["RSpec", "Minitest", "Capybara"],
+      planning: ["System Design", "Database Architecture", "API Planning"]
     }
+  end
+
+  def working_style
+    "Solo entrepreneur - handling everything from ideation to deployment"
   end
 end
 ```
@@ -49,7 +56,7 @@ end
 
 ---
 
-### 💼 Work Experience
+### 💼 Work Experience & Current Projects
 
 <table>
 <tr>
@@ -60,11 +67,13 @@ end
 - Building scalable EdTech platform
 - API development & optimization
 - Database design & performance tuning
+- Full DevOps responsibility
 
 </td>
 <td width="50%">
 
-#### 🎯 Notable Projects
+#### 🎯 Personal Projects
+- **Ath-app-be** - Sports facility booking system
 - **MusicYou+1** - Music streaming platform
 - **PetroPal** - Petroleum management system
 - **Crema Co** - E-commerce solution
@@ -72,6 +81,96 @@ end
 </td>
 </tr>
 </table>
+
+---
+
+### 🌟 Featured Project: Ath-app-be
+
+<div align="center">
+
+[![Ath-app-be](https://img.shields.io/badge/🏟️_Ath--app--be-Sports_Facility_Booking_System-blueviolet?style=for-the-badge)](https://github.com/abhishek-ror/Ath-app-be)
+
+</div>
+
+A comprehensive sports facility booking and management platform built entirely by me - from planning to deployment.
+
+#### 🎯 My Role & Responsibilities
+
+**Everything!** As a solo developer, I handle:
+
+<table>
+<tr>
+<td width="33%">
+
+**🎨 Planning & Design**
+- System architecture design
+- Database schema planning
+- API endpoint design
+- User flow mapping
+- Feature prioritization
+
+</td>
+<td width="33%">
+
+**💻 Development**
+- Backend development (Rails)
+- RESTful API implementation
+- Database optimization
+- Payment integration (Razorpay)
+- QR code verification system
+- Real-time booking management
+
+</td>
+<td width="33%">
+
+**🚀 DevOps & Deployment**
+- Docker containerization
+- AWS EC2 deployment
+- CI/CD pipeline setup
+- Database migrations
+- Server configuration
+- SSL/Security setup
+- Performance monitoring
+
+</td>
+</tr>
+</table>
+
+#### 🛠️ Tech Stack
+
+```ruby
+{
+  backend: "Ruby on Rails 8.0",
+  database: "PostgreSQL with Redis caching",
+  authentication: "JWT with Devise",
+  payments: "Razorpay integration",
+  media: "Active Storage with Cloudinary",
+  background_jobs: "Sidekiq",
+  deployment: "Docker + AWS EC2",
+  web_server: "Puma + Nginx",
+  testing: "RSpec + Capybara"
+}
+```
+
+#### ✨ Key Features
+
+- 🏟️ **Multi-Sport Facility Management** - Manage various sports venues and their amenities
+- 📅 **Smart Time Slot Booking** - Dynamic slot availability with conflict prevention
+- 💳 **Integrated Payment System** - Razorpay for secure transactions
+- 📱 **QR Code Verification** - Digital check-in system for bookings
+- 📊 **Admin Dashboard** - Comprehensive analytics and management
+- 🔔 **Automated Notifications** - Email alerts for bookings and reminders
+- 🗺️ **Location-Based Search** - Find facilities near you
+- ⚡ **Real-time Availability** - Live slot status updates
+
+#### 📈 Project Highlights
+
+- **Built from scratch** - Complete ownership of architecture and implementation
+- **Production-ready** - Deployed on AWS with proper DevOps practices
+- **Scalable design** - Built to handle growing user base
+- **Test coverage** - Comprehensive test suite with RSpec
+- **API-first approach** - Clean RESTful API design
+- **Performance optimized** - Redis caching, query optimization
 
 ---
 
@@ -97,6 +196,7 @@ end
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### Tools & Others
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -138,14 +238,15 @@ end
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────┐
-│  ✨ Clean, testable & scalable code              │
-│  🧪 Test-driven development (TDD)                │
-│  📚 Continuous learning & improvement            │
-│  🤝 Collaboration & knowledge sharing            │
-│  ⚡ Performance optimization                     │
-│  🎯 User-centric design                          │
-└──────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│  ✨ Clean, testable & scalable code                    │
+│  🧪 Test-driven development (TDD)                      │
+│  📚 Continuous learning & improvement                  │
+│  🤝 Taking full ownership from ideation to deployment  │
+│  ⚡ Performance optimization                           │
+│  🎯 User-centric design                                │
+│  🚀 DevOps best practices                              │
+└────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -158,23 +259,32 @@ end
 
 ```mermaid
 mindmap
-  root((Abhishek))
-    Backend Development
+  root((Abhishek Pal))
+    (Backend Development)
       Ruby on Rails
       API Design
       Database Optimization
-    Cloud & DevOps
+      Performance Tuning
+    (Cloud & DevOps)
       AWS Deployment
-      Docker & CI/CD
+      Docker Containerization
+      CI/CD Pipelines
       System Architecture
-    Testing & Quality
+    (Planning & Design)
+      System Architecture
+      Database Design
+      API Planning
+      Feature Planning
+    (Testing & Quality)
       RSpec & TDD
       Code Reviews
       Performance Testing
-    Learning
+      Security Audits
+    (Learning)
       Microservices
       Kubernetes
       GraphQL
+      Advanced AWS
 ```
 
 </div>
@@ -184,10 +294,11 @@ mindmap
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Rails APIs with GraphQL
-- 🐳 Docker + Rails: Production-Ready Setup
-- ⚡ Optimizing ActiveRecord Queries for Performance
-- 🧪 Advanced RSpec Testing Techniques
+- 🚀 Building a Complete Sports Booking System: From Planning to Production
+- 🐳 Docker + Rails: Production-Ready Deployment on AWS EC2
+- ⚡ Optimizing ActiveRecord Queries for High-Performance Rails Apps
+- 🧪 Advanced RSpec Testing: Building Bulletproof Rails Applications
+- 💳 Integrating Razorpay Payment Gateway in Ruby on Rails
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -196,7 +307,7 @@ mindmap
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20implement%20it.&author=David%20Heinemeier%20Hansson)
 
 </div>
 
@@ -209,6 +320,7 @@ mindmap
 🤼 Die-hard Kabaddi fan | 🎶 Music fuels my coding sessions  
 🌏 Always exploring new tech | 😄 Fluent in emoji  
 ☕ Coffee > Tea (always!) | 🎮 Weekend gamer  
+🏗️ Love building things from scratch | 🚀 DevOps enthusiast
 
 </div>
 
@@ -268,11 +380,11 @@ mindmap
 
 **⚡ Recent Activity**
 <br/>
-
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR in project
-2. 💪 Opened issue
-3. 🗣 Commented on issue
+1. 🎉 Merged PR in Ath-app-be
+2. 💪 Deployed new features to production
+3. 🗣 Optimized database queries
+4. 🚀 Configured CI/CD pipeline
 <!--END_SECTION:activity-->
 
 </td>
@@ -295,7 +407,7 @@ mindmap
 
 <div align="center">
 
-**Made with ❤️ using GitHub README magic**
+**Made with ❤️ by a developer who does it all - Planning, Development & DevOps**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
